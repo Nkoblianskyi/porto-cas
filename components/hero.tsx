@@ -11,13 +11,13 @@ export function Hero() {
       <div
         className="w-full min-h-[300px] flex items-center relative"
         style={{
-          backgroundImage: "url(/placeholder.svg?height=300&width=1920&text=Portuguese+Casino+Background)",
+          backgroundImage: "url(/ac392d0dad6b555d2b4818c90ed9d2d3.jpg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
       >
         {/* Clean dark overlay */}
-        <div className="absolute inset-0 bg-black/80 z-0"></div>
+        <div className="absolute inset-0 bg-black/70 z-0"></div>
 
         <div className="container mx-auto px-4 text-center relative z-10 w-full py-8">
           {/* Portuguese flag accent line */}
